@@ -84,3 +84,7 @@ else:
 	for i in range(int(lin)):
 		    time.sleep(int(x))
 		    change()
+		-(kali kali)-[~]
+
+-$ git clonehttps://github.com/FDX100/Auto_Tor_IP_changer.git
+
